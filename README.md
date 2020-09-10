@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Vallocator
 Competitive Investment Portal for the Masses
 =======
@@ -38,3 +39,7 @@ The sample only contains two F# files: the project (.fsproj) and a source file (
 
 The `index.html` file and other assets like an icon can be found in the `public` folder.
 >>>>>>> commits example project
+=======
+# Vallocator
+Competitive wealth allocation for investment education 
+>>>>>>> 18d7cd927cd468932c09df5628b90900d69711f6
